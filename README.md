@@ -2,10 +2,10 @@
 
 # Languages & Tools
 
+| Frontend | <img alt="Mobile app Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=vue,nuxt,ts,js,html,css" /> |
 | :---: | :---: |
-| Frontend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=vue,nuxt,ts,js,html,css" /> |
 | Backend | <img alt="Front end Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=nodejs" /> |
-| Cloud | <img alt="Cloud Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=aws" /> |
+| Cloud | <img alt="Cloud Languages & Tools" src="https://skillicons.dev/icons?theme=dark&perline=8&i=aws,gcp,firebase" /> |
 
 <!--
 **KH1118/KH1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
